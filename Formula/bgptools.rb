@@ -1,8 +1,8 @@
 class Bgptools < Formula
   desc "CLI tool to look up BGP information from bgp.tools"
   homepage "https://github.com/olerap/bgptools-cli"
-  url "https://github.com/olerap/bgptools-cli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5c722407137c08ae450d590430b825f2e4793aeabd34ab37bbebe88022d11d37"
+  url "https://github.com/olerap/bgptools-cli/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "dc73115c2d75608e858b1109ad59082a119cab93ad71d36385d1a975bc450a05"
   license "MIT"
 
   depends_on "curl"
